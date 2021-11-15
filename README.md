@@ -1,5 +1,6 @@
 # Abstractive-Text-Summarisation
  Intended to provide a solution for shortening the data using Abstractive Summarisation.
+ Course Project : Code : CS4098D, NIT Calicut. Batch of 2022
 
 ## Abstract
 Natural Language Processing (NLP) can be defined as the automatic manipulation of
