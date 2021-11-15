@@ -16,3 +16,7 @@ information. Currently, there is a huge amount of data that is exponentially eme
 the market. So, In this project we intend to provide a solution for shortening the data
 using Abstractive Summarisation.
 
+## Quick Links
+
+[Mid Term Report](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Report.pdf)</br>
+[Mid Term PPT](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Slides.pdf)
