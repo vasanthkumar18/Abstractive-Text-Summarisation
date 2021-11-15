@@ -21,3 +21,6 @@ using Abstractive Summarisation.
 
 [Mid Term Report](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Report.pdf)</br>
 [Mid Term PPT](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Slides.pdf)
+
+<!-- ## Contributers 
+![img](https://avatars.githubusercontent.com/u/51993718?v=4) -->
