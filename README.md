@@ -18,9 +18,9 @@ the market. So, In this project we intend to provide a solution for shortening t
 using Abstractive Summarisation.
 
 ## Quick Links
-
+[License](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/LICENSE)</br>
 [Mid Term Report](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Report.pdf)</br>
-[Mid Term PPT](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Slides.pdf)
+[Mid Term PPT](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Slides.pdf)</br>
 
 <!-- ## Contributers 
 ![img](https://avatars.githubusercontent.com/u/51993718?v=4) -->
