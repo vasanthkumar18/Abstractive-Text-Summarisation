@@ -18,3 +18,6 @@ Just use a seq2seq model<br/>
 
 Standard RNNs have trouble learning long distance dependencies. RNN, fixed length. 
 Long Short-Term Memory (LSTM) combats this issue.
+
+# Github Repos
+1. 
