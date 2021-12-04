@@ -18,12 +18,20 @@ the market. So, In this project we intend to provide a solution for shortening t
 using Abstractive Summarisation.
 
 ## Quick Links
+
 [License](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/LICENSE)</br>
-[Mid Term Report](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Report.pdf)</br>
-[Mid Term PPT](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Mid%20Term%20Report/Slides.pdf)</br>
-[Rough](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/tree/main/Rough)</br>
-[References](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/tree/main/References)</br>
-[Code](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/tree/main/Code)</br>
+[Abstract](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Abstract/Abstract.pdf)</br>
+
+### [SEM 7](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/tree/main/SEM%207%20WORK)
+1. [Mid Term Report](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/SEM%207%20WORK/Mid/G_39_Report.pdf)</br>
+2. [Mid Term PPT](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/SEM%207%20WORK/Mid/G_39_PPT.pdf)</br>
+3. [End Sem Report](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/SEM%207%20WORK/EndSem/G_39_EndSem_Report.pdf)</br>
+4. [End Sem PPT](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/SEM%207%20WORK/EndSem/PROJECT%20PPT.pdf)</br>
+5. [Code](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/SEM%207%20WORK/EndSem/Implementation.ipynb)</br>
+
+### [SEM 8](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/tree/main/SEM%208%20WORK)
+1. 
+
 
 
 <!-- ## Contributers 
