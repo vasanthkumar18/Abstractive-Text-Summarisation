@@ -21,6 +21,8 @@ using Abstractive Summarisation.
 
 [License](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/LICENSE)</br>
 [Abstract](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/Abstract/Abstract.pdf)</br>
+[DataSet till SEM 7- Draft 1](https://www.kaggle.com/snap/amazon-fine-food-reviews)</br>
+
 
 ### [SEM 7](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/tree/main/SEM%207%20WORK)
 1. [Mid Term Report](https://github.com/vasanthkumar18/Abstractive-Text-Summarisation/blob/main/SEM%207%20WORK/Mid/G_39_Report.pdf)</br>
