@@ -36,3 +36,7 @@ using Abstractive Summarisation.
 
 <!-- ## Contributers 
 ![img](https://avatars.githubusercontent.com/u/51993718?v=4) -->
+
+## Google Docs ( Private )
+1. [Till Sem 7](https://docs.google.com/document/d/1kxmTIrWqXLiNgprjWk2WyA3Q0SsW3lBp1NZtt0aioSg/edit)
+2. [Intro](https://docs.google.com/document/d/1LaB9U6P8jR8mFk5fA7Bn0-thGrYWWFy0nslWA_ZpZqk/edit)
