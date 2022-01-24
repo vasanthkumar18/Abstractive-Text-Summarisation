@@ -21,6 +21,8 @@ Long Short-Term Memory (LSTM) combats this issue.
 
 # Github Repos
 1. https://github.com/himanshurawat443/Abstractive-Text-Summarization-using-seq-2-seq-RNN-s
+2. https://github.com/theamrzaki/text_summurization_abstractive_methods
+3. 
 
 # Project Google Collab
 1. https://colab.research.google.com/drive/1gGPIPGLowsAKl02c322-VGdW-5gPlBqW#scrollTo=o5DmlTIv9M1I
