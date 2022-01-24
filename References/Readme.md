@@ -25,5 +25,4 @@ Long Short-Term Memory (LSTM) combats this issue.
 3. 
 
 # Project Google Collab
-1. https://colab.research.google.com/drive/1gGPIPGLowsAKl02c322-VGdW-5gPlBqW#scrollTo=o5DmlTIv9M1I
-
+https://colab.research.google.com/drive/1tu9VCW146CS4wR7rCEO02fVY2TH0CkFG?usp=sharing
